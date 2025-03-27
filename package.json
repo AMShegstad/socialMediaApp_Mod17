@@ -1,0 +1,22 @@
+{
+  "name": "socialmediaapp_mod17",
+  "version": "1.0.0",
+  "description": "Social Media Backend application, using MongoDB and Mongoose.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js",
+    "seed": "node src/utils/seed.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^6.14.2",
+    "mongoose": "^8.12.1"
+  },
+  "devDependencies": {
+  }
+}
