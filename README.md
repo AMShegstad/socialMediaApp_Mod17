@@ -65,3 +65,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Screenshots
 ![Screenshot 1](./assets/images/getAllUsersScreenshot.png)
 ![Screenshot 2](./assets/images/getAllThoughtsScreenshot.png)
+
+## Walkthrough Video
+[Checkout this walkthrough via Insomnia](https://drive.google.com/file/d/1hdJ9odHutRyrFZ2o3_KkbZw8QdE7JFmj/view?usp=sharing)
